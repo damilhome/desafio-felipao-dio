@@ -20,4 +20,4 @@ if (quantidadeDeXp < 1000) {
     nivelDoHeroi = "Radiante";
 }
 
-console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivelDoHeroi + ".")
+console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivelDoHeroi + ".");
